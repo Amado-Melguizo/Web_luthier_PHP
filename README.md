@@ -1,6 +1,6 @@
 # Web_luthier
 
-Web basada en lenguajes PHP & con gestor de datos MYSQL.
+Web basada en lenguaje PHP & con gestor de datos MYSQL.
 
 
 Te indico varias cosillas para que te faciliten
